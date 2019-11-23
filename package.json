@@ -1,0 +1,26 @@
+{
+  "name": "isbn-check",
+  "version": "1.0.0",
+  "description": "check isbn 13 and isbn 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsenal131/isbn.git"
+  },
+  "keywords": [
+    "ISBN",
+    "ISBN",
+    "13",
+    "ISBN",
+    "10"
+  ],
+  "author": "arsenal131",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/arsenal131/isbn/issues"
+  },
+  "homepage": "https://github.com/arsenal131/isbn#readme"
+}
