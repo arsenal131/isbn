@@ -1,3 +1,3 @@
 module.exports = {
-  showProcess:0
+  showProcess:1
 }
